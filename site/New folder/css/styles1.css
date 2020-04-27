@@ -1,0 +1,25 @@
+.hed
+{
+	margin: 5px;
+}
+*{
+	text-align: center;
+}
+.pull-left
+{
+	padding: 0;
+}
+
+	[class*="box"]{
+	    border:1px solid blue ;
+	    margin :5px;
+	    padding: 10px 10px 10px 10px ;
+
+		background:#c0c0c0;
+		position: relative;
+
+	    }
+div.h
+	{
+		margin-bottom: : 5px;
+	}
